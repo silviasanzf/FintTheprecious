@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Findtheprecious</title>
-  </head>
-  
-  <body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Findtheprecious</title>
+    </head>
+    <body>
       <header>
           <nav>
               <ul>
@@ -41,106 +40,126 @@
       
           <div>
               <p>reward 1000 gold coins<p>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
-        <p>the Wizard<p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
-      </div>
+              <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
+              <p>the Wizard<p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
+          </div>
       
-      <div>
-        <p>DEAD<p>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
-        <p>Hobbit#3<p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
-      </div>
+          <div>
+              <p>DEAD<p>
+              <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
+              <p>Hobbit#3<p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
+          </div>
       
-      <div>
-        <p>Reward 250 gold coins<p>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
-        <p>Yummy Dwarf<p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
-      </div>
-    </section>
-    <hr>
+          <div>
+              <p>Reward 250 gold coins<p>
+              <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
+              <p>Yummy Dwarf<p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
+          </div>
+      </section>
+      <hr>
     
-   2 <section>
-     <h2 id="reward">I have capture one of them, how to get my reward?</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.</p>
-      <button><a href="#contact">Contact us</a></button>
-      <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140"></a>  
+      <section>
+              <h2 id="reward">I have capture one of them, how to get my reward?</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.</p>
+                  <a href="#contact">Contact us</button></a>
+                  <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140"></a>  
  
-    </section>
-    <hr>
+      </section>
+      <hr>
 
- 3 <section>
-     <h2 id="hunter">Best hunters</h2>
-      <div>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70"></a>
-        <h3>ElvesKiller22</h3>
-        <p>2 captures-</p>
-        <p>Profil</p>
-      </div>  
+      <section>
+              <h2 id="hunter">Best hunters</h2>
+              <div>
+                  <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70"></a>
+                  <h3>ElvesKiller22</h3>
+                  <p>2 captures-</p>
+                  <p>Profil</p>
+              </div>  
       
-      <div>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70"></a>
-        <h3>Goblin45</h3>
-        <p>1 capture-</p>
-        <p>Profil</p>
-      </div>  
+              <div>
+                  <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70"></a>
+                  <h3>Goblin45</h3>
+                  <p>1 capture-</p>
+                  <p>Profil</p>
+            </div>  
    
- 4 <section>
-     <h2 id="ring">About the ring</h2>
-     
-     <div>
-          <h3>Ring capabilities</h3>
-          <p>What can our master Sauron do with the ring?>
-     <table>
-        <tr>
-            <th>Feature</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>main</td>
-            <td>One ring to rules them all</td>
-        </tr>
-        <tr>
-            <td>Invisibility</td>
-            <td>you can't see me</td>
-        </tr>
-        <tr>
-            <td>Power</td>
-            <td>Destroy the world</td>
-        </tr>
-     </table> 
-  </div>
-  <div>
-     <h3>Why the ring is awesome?</h3>
-      <p>My precioooooooousssssssss!! Hrk hrk, we want our precioooooooousssssssss </p>
-      <p>Gollum<p>
-       <a href="https://placeholder.com"><img src="https://via.placeholder.com/110x110"></a> 
-   </div>   
-      
-   <hr>
+      <section>
+            <h2 id="ring">About the ring</h2>
+            <div>
+              <h3>Ring capabilities</h3>
+              <p>What can our master Sauron do with the ring?>
+          <table>
+           <tr>
+                <th>Feature</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>main</td>
+                <td>One ring to rules them all</td>
+            </tr>
+            <tr>
+                <td>Invisibility</td>
+                <td>you can't see me</td>
+            </tr>
+            <tr>
+                <td>Power</td>
+                <td>Destroy the world</td>
+            </tr>
+          </table> 
+          </div>
+          <div>
+              <h3>Why the ring is awesome?</h3>
+                  <p>My precioooooooousssssssss!! Hrk hrk, we want our precioooooooousssssssss </p>
+                  <p>Gollum<p>
+                  <a href="https://placeholder.com"><img src="https://via.placeholder.com/110x110"></a> 
+          </div>   
+          <hr>
   
-  5 <section>
-     <h2 id="army">Join Modor Army, we need you!</h2>
-     <div>
-     <p>Post hoc impie perpetratum quod in aliis quoque iam timebatur, tamquam licentia crudelitati indulta per suspicionum nebulas aestimati quidam noxii damnabantur. quorum pars necati, alii puniti bonorum multatione actique laribus suis extorres nullo sibi relicto praeter querelas et lacrimas, stipe conlaticia victitabant, et civili iustoque imperio ad voluntatem converso cruentam, claudebantur opulentae domus et clarae.</p>
-    <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140"></a> 
-    <button><a href="https://SauronRulesAll.com">more info on SauronRulesThemAll.com</button>
- </div>
+      <section>
+           <h2 id="army">Join Modor Army, we need you!</h2>
+        <div>
+            <p>Post hoc impie perpetratum quod in aliis quoque iam timebatur, tamquam licentia crudelitati indulta per suspicionum nebulas aestimati quidam noxii damnabantur. quorum pars necati, alii puniti bonorum multatione actique laribus suis extorres nullo sibi relicto praeter querelas et lacrimas, stipe conlaticia victitabant, et civili iustoque imperio ad voluntatem converso cruentam, claudebantur opulentae domus et clarae.</p>
+            <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140"></a> 
+            <button><a href="https://SauronRulesAll.com">more info on SauronRulesThemAll.com</button></a>
+        </div>
+      </section>
+      <hr>
+      <section>
+            <h2 id="contact">Contact us</h2>
+            <form method="post" action="traitement.php">
+            <p>
+              <label for="message"></label>
+              <input type="text" name="email" placeholder="@" />
+            </p>
+
+      </form>       
+       <form method="post" action="traitement.php">
+          <p>
+            <label for="message"></label>
+            <input type="text" name="email" placeholder="" />
+          </p>
+      </form>       
+      
+      <form method="post" action="traitement.php">
+        <select>
+        <p>
+          <option value="seen">I have seen one of them</option>
+           <option value="captured">I have captured one of them</option>
+           <option value="army">I want to join your army/option 
+       </select>
+        </p>
+      </form>
+      <form method="post" action="traitement.php">
+      <p>
+        <label for="message"></label>
+        <input type="text" name="message" placeholder="Your message" size="30" maxlength="10" />
+      </p>
+    </form>          
     </section>
-  <hr>
-  6 <section>
-     <h2 id="contact">Contact us</h2>
-      <p></p>
-        <li></li>
-        <li></li>
-        <li></li>
-      <p><p>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a>  
- 
-    </section>
-  <hr>
+     <hr>
   <footer>
     <div>
       <li>About us</li>
@@ -151,11 +170,16 @@
      </div>
      
      <div>
-      <a href="Sauron4ever.com"</a>
-      <a href="Follow him also on twitter"</a>
+      <li><a href="Sauron4ever.com"</a>Sauron4ever.com</li>
+      <li><a href="Follow him also on twitter"</a>Follow him also on twitter</li>
    </div>
            
  </footer>
    
  </body>
 </html>
+
+
+
+
+ 
