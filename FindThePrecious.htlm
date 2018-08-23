@@ -6,33 +6,41 @@
   </head>
   
   <body>
-   <header>
-   <nav>
-      <li>FindThePrecios.com</li>
-      <li><a href="#fellow">Fellows</a></li>
-      <li><a href="#ring">The Ring</a></li>
-      <li><a href="#reward">Get my reward</a></li>
-      <li><a href="#hunter">Best hunters</a></li>
-      <li><a href="#army">Join the army</a></li>
-      <li><a href="#contact">Contact us</a></li>
-   </nav> 
-   <div>
-      <h1>Dangerous fellowship try to destroy the ring</h1>
-      <p><Orcs, Goblins, Balrogs, protect your master Sauron!></p> 
-   </div> 
-    </header>
+      <header>
+          <nav>
+              <ul>
+                  <li>FindThePrecious.com</li>
+                  <li><a href="#fellow">Fellows</a></li>
+                  <li><a href="#ring">The Ring</a></li>
+                  <li><a href="#reward">Get my reward</a></li>
+                  <li><a href="#hunter">Best hunters</a></li>
+                  <li><a href="#army">Join the army</a></li>
+                  <li><a href="#contact">Contact us</a></li>
+              </ul>
+          </nav> 
+          
+          <div>
+              <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140"></a> 
+              <h1>Dangerous fellowship try to destroy the ring</h1>
+              <p><Orcs, Goblins, Balrogs, protect your master Sauron!></p> 
+          </div> 
+      </header>
     
-    
-  1  <section>
-      <div>
-      <h2 id="fellow">Fellow wanted dead</h2>
-      <p>(or alive if you want to eat them later)</p>
-        <li>Most wanted</li>
-        <li>Most dangerous</li>
-        <li>Already captured</li>
-      </div>
-      <div>
-        <p>reward 1000 gold coins<p>
+      <section>
+          <div>
+              <h2 id="fellow">Fellow wanted dead</h2>
+                  <p>(or alive if you want to eat them later)</p>
+              <nav>
+                  <ul>
+                      <li><a href="wanted">Most Wanted</a></li>
+                      <li><a href="dangerous">Most dangerous</a></li>
+                      <li><a href="captured">already captured</a></li>
+                 </ul>
+              </nav>   
+          </div>
+      
+          <div>
+              <p>reward 1000 gold coins<p>
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a> 
         <p>the Wizard<p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
