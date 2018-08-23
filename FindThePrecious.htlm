@@ -6,24 +6,26 @@
   </head>
   
   <body>
-    
-    <header>
-      <nav>
-          <li>FindThePrecios.com</li>
-          <li>Fellows</li>
-          <li>The Ring</li>
-          <li>Get my reward</li>
-          <li>Best hunters</li>
-          <li>Join the army</li>
-          <li>Contact us</li>
-      </nav>
+   <header>
+   <nav>
+      <li>FindThePrecios.com</li>
+      <li><a href="#fellow">Fellows</a></li>
+      <li><a href="#ring">The Ring</a></li>
+      <li><a href="#reward">Get my reward</a></li>
+      <li><a href="#hunter">Best hunters</a></li>
+      <li><a href="#army">Join the army</a></li>
+      <li><a href="#contact">Contact us</a></li>
+   </nav> 
+   <div>
       <h1>Dangerous fellowship try to destroy the ring</h1>
       <p><Orcs, Goblins, Balrogs, protect your master Sauron!></p> 
+   </div> 
     </header>
+    
     
   1  <section>
       <div>
-      <h2>Fellow wanted dead</h2>
+      <h2 id="fellow">Fellow wanted dead</h2>
       <p>(or alive if you want to eat them later)</p>
         <li>Most wanted</li>
         <li>Most dangerous</li>
@@ -50,17 +52,19 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor<p>
       </div>
     </section>
+    <hr>
     
    2 <section>
-     <h2>I have capture one of them, how to get my reward?</h2>
+     <h2 id="reward">I have capture one of them, how to get my reward?</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.</p>
       <p>Contac Us</p>
       <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140"></a>  
  
     </section>
+    <hr>
 
  3 <section>
-     <h2>Best hunter</h2>
+     <h2 id="hunter">Best hunter</h2>
       <div>
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70"></a>
         <p>ElvesKiller22</p>
@@ -74,9 +78,10 @@
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a>  
  
     </section>
+    <hr>
 
  4 <section>
-     <h2>About the ring</h2>
+     <h2 id="ring">About the ring</h2>
       <p></p>
         <li></li>
         <li></li>
@@ -85,9 +90,10 @@
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a>  
  
     </section>
+    <hr>
   
   5 <section>
-     <h2>Join Modor Army, we need you!</h2>
+     <h2 id="army">Join Modor Army, we need you!</h2>
       <p></p>
         <li></li>
         <li></li>
@@ -96,9 +102,9 @@
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a>  
  
     </section>
-  
+  <hr>
   6 <section>
-     <h2>Contact us</h2>
+     <h2 id="contact">Contact us</h2>
       <p></p>
         <li></li>
         <li></li>
@@ -107,7 +113,7 @@
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/200x200"></a>  
  
     </section>
-  
+  <hr>
   <footer>
     <div>
       <li>About us</li>
